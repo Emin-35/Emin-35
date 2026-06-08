@@ -17,10 +17,10 @@ I am a passionate **Software Developer** from **Türkiye** 🇹🇷 dedicated to
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/mehmet-emin-palabiyik-35bnry72698265" target="_blank">
+  <a href="https://www.linkedin.com/in/emin-35bnry72698265" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/20315541" target="_blank">
+  <a href="https://stackoverflow.com/users/14901513/emin-35" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
   <a href="https://www.leetcode.com/emin-35" target="_blank">
